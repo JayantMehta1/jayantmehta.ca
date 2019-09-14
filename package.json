@@ -1,7 +1,6 @@
 {
   "name": "local",
   "version": "1.0.0",
-  "homepage": "https://github.com/JayantMehta1/",
   "description": "A Vue.js project",
   "author": "Jayant Mehta",
   "private": true,
