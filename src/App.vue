@@ -4,7 +4,7 @@
   <nav class="navbar navbar-default">
     <div class="container-fluid">
       <div class="navbar-header">
-        <router-link to="/" class="navbar-brand">Home</router-link>
+        <router-link to="/home" class="navbar-brand">Home</router-link>
         <router-link to="/about" class="navbar-brand">About Me</router-link> 
         <router-link to="/resume" class="navbar-brand">Resume</router-link> 
       </div>
@@ -21,7 +21,7 @@
 </template>
 
 <script>
-import Conclusion from './components/Conclusion.vue'
+import Conclusion from './components/home/Conclusion.vue'
 
 export default {
   data() {
