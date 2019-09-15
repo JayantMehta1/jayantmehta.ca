@@ -21,7 +21,7 @@
 </template>
 
 <script>
-import Conclusion from './components/home/Conclusion.vue'
+import Conclusion from './components/Conclusion.vue'
 
 export default {
   data() {
