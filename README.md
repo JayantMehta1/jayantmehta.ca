@@ -4,6 +4,6 @@ I designed and developed my website using the Vue.js framework, JavaScript, HTML
 
 Implemented routing (navigation), components, props, objects, arrays, functions, animated scrolling, and social media account links.
 
-You can view it here: jayantmehta.ca
+You can view it here: https://jayantmehta.ca
 
 
