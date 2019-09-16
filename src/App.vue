@@ -14,9 +14,9 @@
     <div id="whole">
               <router-view></router-view>
     </div>
-        <conclusion
+        <!-- <conclusion
           :myName="userName">
-      </conclusion>
+      </conclusion> -->
   </div>
 </template>
 
