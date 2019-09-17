@@ -1,7 +1,7 @@
 <template>
     <div>
         <div id="introWords">
-            <h1> Hi, I'm {{myName.first}}</h1>
+            <h1> Hi, I'm {{myName.first}}!</h1>
             <vue-typer 
                 text="I am a software developer studying Engineering at the University of Waterloo. Feel free to explore my website to get to know me :)"
                 type-delay = '60'
