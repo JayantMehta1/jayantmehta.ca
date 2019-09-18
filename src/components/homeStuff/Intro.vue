@@ -51,7 +51,7 @@ h1 {
 }
 
 .vue-typer {
-  font-size: 20px;
+  font-size: 21px;
 }
 
 a {
