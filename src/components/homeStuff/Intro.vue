@@ -5,6 +5,9 @@
             <p>
                 I am a software developer studying Engineering at the University of Waterloo. Feel free to explore my website to get to know me :)
             </p>
+            <p>
+                I am seeking an internship for Winter 2020 (January - April)
+            </p>
         </div>
         <a href="../../../static/JayantMehtaResume.pdf">Here is my Resume</a>
         <div id="introAccounts">
@@ -35,21 +38,24 @@ export default {
 
 <style scoped>
 #introWords {
-    margin-top: 30vh;
+    margin-top: 15vh;
     margin-bottom:4vh;
 }
 
 #introAccounts {
-    margin-bottom: 60vh;
+    margin-bottom: 35vh;
     margin-top: 2vh;
 }
 
 h1 {
     font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 3em;
 }
 
 p {
   font-size: 20px;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 a {

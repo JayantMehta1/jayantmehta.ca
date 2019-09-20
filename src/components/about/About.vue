@@ -67,7 +67,7 @@ p, li{
 }
 
 ul {
-    margin-bottom: 60vh;
+    margin-bottom: 25vh;
 }
 
 </style>

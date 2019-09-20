@@ -46,22 +46,30 @@
   height:100%;
 }
 
-#picOne {
+#picDesign {
     background-image: url(https://durhamtech.edu/sites/default/files/images/Information-Technology-software-development-PO.jpg);
 }
 
-#picTwo {
-    background-image: url(https://www.brisbane.qld.gov.au/sites/default/files/styles/hero_image_mobile/public/1200x500-dunlop-park-pool-corner_0.jpg?itok=owev0y2n);
+#picCarteSoftware {
+    background-image: url(https://www.moveoapps.com/blog/wp-content/uploads/2017/12/6-Best-Practices-for-Faster-Better-Hybrid-App-Development.jpg);
 }
 
-#picThree {
+#picNorth {
+    background-image: url(https://ih1.redbubble.net/image.107099335.1905/flat,1000x1000,075,f.jpg);
+}
+
+#picPEO {
+    background-image: url(https://cdn.shopify.com/s/files/1/2719/6506/articles/Is-3D-printing-the-next-big-thing-or-the-next-big-bust_1024x1024.jpg?v=1531347284);
+}
+
+#picCarteAdmin {
     background-image: url(https://i.cbc.ca/1.4796717.1535051028!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/open-concept-working-environment.jpg);
 }
-#picFour {
+#picBridges {
     background-image: url(https://www.nsf.gov/news/mmg/media/images/shutterstock_497153830_f.jpg);
 }
-#picFive {
-    background-image: url(https://www.moveoapps.com/blog/wp-content/uploads/2017/12/6-Best-Practices-for-Faster-Better-Hybrid-App-Development.jpg);
+#picBrampton {
+    background-image: url(https://www.brisbane.qld.gov.au/sites/default/files/styles/hero_image_mobile/public/1200x500-dunlop-park-pool-corner_0.jpg?itok=owev0y2n);
 }
 
 @media screen and (max-width:800px) {

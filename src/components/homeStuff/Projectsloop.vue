@@ -47,14 +47,21 @@
   height:100%;
 }
 
-#picOne {
+#picHOSA {
     background-image: url(https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fbernardmarr%2Ffiles%2F2018%2F11%2FAdobeStock_171462504-1200x675.jpg);
 }
 
-#picTwo {
+#picDECA {
     background-image: url(https://www.electroschematics.com/wp-content/uploads/2015/05/arduino-fingerprint-module.png);
 }
 
+#picAir {
+    background-image: url(https://cdn.cnn.com/cnnnext/dam/assets/180828102621-air-pollution-shanghai-2018-0223-super-tease.jpg);
+}
+
+#picAngular {
+    background-image: url(http://www.amtecsolutionsgroup.com/s/cc_images/teaserbox_9812535.png?t=1442254844);
+}
 
 @media screen and (max-width:800px) {
   .left, .right {

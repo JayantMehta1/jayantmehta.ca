@@ -20,11 +20,13 @@ export default {
     data() {
         return {
             Experiences: [
-                {company: 'Design Net Specific', position: 'Web Developer', pic: 'picOne'},
-                {company: 'City of Brampton', position: 'Aquatics Instructor', pic: 'picTwo'},
-                {company: 'Carte Wealth Management Inc.', position: 'Administrative Assistant', pic: 'picThree'},
-                {company: 'Brdiges Canada Inc.', position: 'Technology Camp Counsellor', pic: 'picFour'},
-                {company: 'Carte Wealth Management Inc.', position: 'Computer and Software Intern', pic: 'picFive'}
+                {company: 'Design Net Specific', position: 'Web Developer', pic: 'picDesign'},
+                {company: 'Carte Wealth Management Inc.', position: 'Computer and Software Intern', pic: 'picCarteSoftware'},
+                {company: 'Hack the North', position: 'Judging Panel Coordinator', pic: 'picNorth'},
+                {company: 'Professional Engineers of Ontario Oakville Chapter', position: 'National Engineering Month Conference Coordinator', pic: 'picPEO'},
+                {company: 'Carte Wealth Management Inc.', position: 'Administrative Assistant', pic: 'picCarteAdmin'},
+                {company: 'Brdiges Canada Inc.', position: 'Technology Camp Counsellor', pic: 'picBridges'},
+                {company: 'City of Brampton', position: 'Aquatics Instructor', pic: 'picBrampton'}
             ]
         };
     },

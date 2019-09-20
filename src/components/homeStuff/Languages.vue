@@ -56,7 +56,7 @@
   display: flex;
   flex-wrap: wrap;
   padding: 0 4px;
-  margin-bottom: 65vh;
+  margin-bottom: 30vh;
 }
 
 /* Create four equal columns that sits next to each other */
@@ -100,7 +100,8 @@ i:hover {
 
   h3 {
       margin: 10vh auto;
+      font-family: 'Source Sans Pro', sans-serif;
+      font-weight: bold;
   }
-
 </style>
 
