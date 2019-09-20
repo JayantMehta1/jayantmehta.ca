@@ -38,7 +38,7 @@ export default {
 
 <style scoped>
 #introWords {
-    margin-top: 15vh;
+    margin-top: 10vh;
     margin-bottom:4vh;
 }
 
@@ -49,7 +49,6 @@ export default {
 
 h1 {
     font-weight: bold;
-    font-family: 'Source Sans Pro', sans-serif;
     font-size: 3em;
 }
 

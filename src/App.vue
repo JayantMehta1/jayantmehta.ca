@@ -40,7 +40,7 @@ export default {
 
 nav {
   background-color: black;
-  margin-bottom: 30vh;
+  margin-bottom: 29vh;
 }
 
 .navbar-brand {
@@ -62,10 +62,16 @@ body {
 }
 
 @media (max-width: 1000px) {
+  #whole {
+    width:90%;
+  }
+}
 
-      #whole {
-            width:90%;
-       }
+@media screen and (max-width:800px) {
+  nav {
+  background-color: black;
+  margin-bottom: 24vh;
+}
 
 }
 </style>
