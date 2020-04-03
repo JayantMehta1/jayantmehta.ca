@@ -63,6 +63,10 @@
     background-image: url(http://www.amtecsolutionsgroup.com/s/cc_images/teaserbox_9812535.png?t=1442254844);
 }
 
+#picFacebook {
+    background-image: url(https://searchengineland.com/figz/wp-content/seloads/2015/10/google-facebook-new6-1920.jpg);
+}
+
 @media screen and (max-width:800px) {
   .left, .right {
     width:100%; 

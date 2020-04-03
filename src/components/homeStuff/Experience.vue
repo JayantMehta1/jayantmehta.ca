@@ -21,7 +21,7 @@ export default {
         return {
             Experiences: [
                 {company: 'Design Net Specific', position: 'Web Developer', pic: 'picDesign'},
-                {company: 'Carte Wealth Management Inc.', position: 'Computer and Software Intern', pic: 'picCarteSoftware'},
+                {company: 'Carte Wealth Management Inc.', position: 'Computer Software Intern', pic: 'picCarteSoftware'},
                 {company: 'Hack the North', position: 'Judging Panel Coordinator', pic: 'picNorth'},
                 {company: 'Professional Engineers of Ontario Oakville Chapter', position: 'National Engineering Month Conference Coordinator', pic: 'picPEO'},
                 {company: 'Carte Wealth Management Inc.', position: 'Administrative Assistant', pic: 'picCarteAdmin'},
