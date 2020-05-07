@@ -32,19 +32,22 @@
         data() {
             return {
                 myLanguages: [
-                    {icon: 'devicon-java-plain-wordmark colored', name: 'Java'},
-                    {icon: 'devicon-javascript-plain colored', name: 'JavaScript'},
                     {icon: 'devicon-cplusplus-plain colored', name: 'C++'},
+                    {icon: 'devicon-java-plain-wordmark colored', name: 'Java'},
                     {icon: 'devicon-python-plain-wordmark colored', name: 'Python'},
-                    {icon: 'devicon-c-plain colored', name: 'C'},
-
+                    {icon: 'devicon-ruby-plain-wordmark colored', name: 'Ruby'},
+                    {icon: 'devicon-javascript-plain colored', name: 'JavaScript'}
                 ],
                 myTools: [
+                    {icon: 'devicon-react-original-wordmark colored', name: 'React.js'},
+                    {icon: 'devicon-docker-plain-wordmark colored', name: 'Docker'},
+                    {icon: 'devicon-facebook-plain colored', name: 'Facebook for Developers'},
+                    {icon: 'devicon-google-plain-wordmark colored', name: 'Google Cloud Platform'},
+                    {icon: 'devicon-nodejs-plain-wordmark colored', name: 'Node.js'},
                     {icon: 'devicon-vuejs-plain-wordmark colored', name: 'Vue.js'},
                     {icon: 'devicon-webpack-plain colored', name: 'Webpack'},
-                    {icon: 'devicon-photoshop-plain colored', name: 'PhotoShop'},
-                    {icon: 'devicon-bootstrap-plain-wordmark colored', name: 'Bootstrap'}
-                ],
+                    {icon: 'devicon-photoshop-plain colored', name: 'PhotoShop'}
+                ]
         };
     }
 }

@@ -1,6 +1,6 @@
 <template>
     <footer>
-            <p>j7mehta@edu.uwaterloo.ca</p>
+            <p>j7mehta@uwaterloo.ca</p>
             <accounts :passColour="accountsColourConclusion"></accounts>
             <p id="credit">Designed and Developed by {{myName.first}} {{myName.last}}</p>
     </footer>

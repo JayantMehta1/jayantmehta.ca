@@ -19,7 +19,7 @@ export default {
     data() {
         return {
             myProfiles: [
-                {icon: 'fas fa-envelope fa-lg', myLink: 'mailto: j7mehta@edu.uwaterloo.ca'},
+                {icon: 'fas fa-envelope fa-lg', myLink: 'mailto: j7mehta@uwaterloo.ca'},
                 {icon: 'fab fa-linkedin-in fa-lg', myLink: 'https://www.linkedin.com/in/jayant-mehta'},
                 {icon: 'fab fa-github fa-lg', myLink: 'https://github.com/JayantMehta1'},
                 {icon: 'fas fa-file fa-lg', myLink: '../../../static/JayantMehtaResume.pdf'}

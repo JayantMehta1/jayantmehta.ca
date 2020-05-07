@@ -41,9 +41,18 @@
     padding-left: 5%;
     padding-top:3%;
     padding-right: 2%;
-  float:left;
-  width:50%;
-  height:100%;
+    float:left;
+    width:50%;
+    height:100%;
+    background-color: PowderBlue;
+}
+
+#picCanada {
+    background-image: url(https://alljobsnet.com/wp-content/uploads/2019/10/Government-of-Canada-logo.jpg);
+}
+
+#picMicrosoft {
+    background-image: url(https://img-cdn.hipertextual.com/files/2012/08/Microsoft-logo.jpg?strip=all&lossy=1&quality=70&resize=740%2C490&ssl=1);
 }
 
 #picDesign {
@@ -62,9 +71,6 @@
     background-image: url(https://cdn.shopify.com/s/files/1/2719/6506/articles/Is-3D-printing-the-next-big-thing-or-the-next-big-bust_1024x1024.jpg?v=1531347284);
 }
 
-#picCarteAdmin {
-    background-image: url(https://i.cbc.ca/1.4796717.1535051028!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/open-concept-working-environment.jpg);
-}
 #picBridges {
     background-image: url(https://www.nsf.gov/news/mmg/media/images/shutterstock_497153830_f.jpg);
 }
