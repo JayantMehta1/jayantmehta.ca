@@ -5,9 +5,6 @@
             <p>
                 I am a software developer studying Engineering at the University of Waterloo. Feel free to explore my website to get to know me :)
             </p>
-            <p>
-                I am seeking an internship for Fall 2020 (September - December).
-            </p>
         </div>
         <a href="../../../static/JayantMehtaResume.pdf">Here is my Resume</a>
         <div id="introAccounts">
