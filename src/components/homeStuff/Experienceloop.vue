@@ -48,11 +48,11 @@
 }
 
 #picCanada {
-    background-image: url(https://alljobsnet.com/wp-content/uploads/2019/10/Government-of-Canada-logo.jpg);
+    background-image: url(https://sustainontario.com/custom/uploads/2019/03/government-of-canada-logo.png);
 }
 
 #picMicrosoft {
-    background-image: url(https://img-cdn.hipertextual.com/files/2012/08/Microsoft-logo.jpg?strip=all&lossy=1&quality=70&resize=740%2C490&ssl=1);
+    background-image: url(https://images.techhive.com/images/article/2015/08/microsoft-logo-redwest-a-100611028-large.jpeg);
 }
 
 #picDesign {
