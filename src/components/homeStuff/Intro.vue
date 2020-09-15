@@ -3,8 +3,12 @@
         <div id="introWords">
             <h1> Hi, I'm {{myName.first}}!</h1>
             <p>
-                I am a software developer studying Engineering at the University of Waterloo. Feel free to explore my website to get to know me :)
+                I am a Systems Design Engineering student at the University of Waterloo passionate for software development. Feel free to explore my website to get to know me :)
             </p>
+            <p>
+                I am looking for Summer 2021 internships.
+            </p>
+
         </div>
         <a href="../../../static/JayantMehtaResume.pdf">Here is my Resume</a>
         <div id="introAccounts">
